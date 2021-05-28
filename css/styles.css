@@ -4,3 +4,13 @@ h1 {
   margin-top:3%;
   font-size: 50px;
 }
+.me {
+  font-weight:normal;
+  color:chartreuse;
+  text-shadow:2px 2px crimson;
+  background-color: darkblue;
+}
+.piton {
+  border-radius: 10px;
+  Margin-left: 15%;
+}

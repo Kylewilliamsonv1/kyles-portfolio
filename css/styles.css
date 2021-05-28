@@ -4,6 +4,11 @@ h1 {
   margin-top:3%;
   font-size: 50px;
 }
+.intro {
+  padding-top: 20px;
+  text-align: center;
+}
+
 .me {
   font-weight:normal;
   color:chartreuse;
@@ -13,4 +18,12 @@ h1 {
 .piton {
   border-radius: 10px;
   Margin-left: 15%;
+}
+.projects {
+  font-weight: bold;
+
+}
+body {
+  background-image: url "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Faf%2F8d%2F63%2Faf8d63a477078732b79ff9d9fc60873f.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F677439968930881544%2F&tbnid=wdhSKr_d3QLwLM&vet=12ahUKEwih9q6Qie3wAhWEKn0KHRr0BXwQMygBegUIARDUAQ..i&docid=cvw6wpx9E2zGLM&w=950&h=1534&itg=1&q=background%20image&ved=2ahUKEwih9q6Qie3wAhWEKn0KHRr0BXwQMygBegUIARDUAQ";
+  background-color: lightgray;
 }

@@ -23,6 +23,7 @@ h1 {
 .piton {
   border-radius: 10px;
   Margin-left: 15%;
+  float:right;
 }
 .projects {
   font-weight: bold;

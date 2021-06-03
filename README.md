@@ -9,7 +9,7 @@
 * Open folder titled 'kyles-portfolio'
 * Open index.html file within 'kyles-portfolio' folder.
 
-[kyles-portfolio](link from github pages)
+[kyles-portfolio](https://kylewilliamsonv1.github.io/kyles-portfolio/)
 ![Kyle at Pitons](img/kylepiton.jpeg)
 
 Copyright <2021> <Kylewilliamsonv1@gmail.com>

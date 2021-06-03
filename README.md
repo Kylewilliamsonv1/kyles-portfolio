@@ -1,16 +1,16 @@
-# Kyle Williamson
+# Kyles-portfolio
 
-## Kyles-portfolio
+## Kyle Williamson <kylewilliamsonv1@gmail.com>
 
-**Inteneded Use** for this program is to demonstrate my abilities after my first week at Epicodus school for programming.  This site includes 2 projects that were developed this week that experiments with skills learned.
+**Project Bio** The purpose for this page is to demonstrate my abilities learned during my first week at Epicodus.  This site includes 2 projects that were developed this week that experiment with skills learned.
 
-### Setup
+### Setup 
 * Clone Repository from github.com
 * Open folder titled 'kyles-portfolio'
 * Open index.html file within 'kyles-portfolio' folder.
 
 [kyles-portfolio](https://kylewilliamsonv1.github.io/kyles-portfolio/)
-![Kyle at Pitons](img/kylepiton.jpeg)
+![Kyle at Pitons](img/kylepitons.jpeg)
 
 Copyright <2021> <Kylewilliamsonv1@gmail.com>
 
